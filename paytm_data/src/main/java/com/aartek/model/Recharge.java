@@ -29,8 +29,11 @@ public class Recharge {
 	@Column(name="Date")
 	private String date;
 
+	
 	public String getDate() {
+	// syso 
 		return date;
+	
 	}
 
 	public void setDate(String date) {
